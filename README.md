@@ -6,5 +6,5 @@
 - Postgresql
 - Docker
 
-- 🔭 I’m currently working on SentimentAnalysisMicroservices, NeuroJ
-- 🌱 I’m currently learning Java
+🔭 I’m currently working on SentimentAnalysisMicroservices, NeuroJ
+🌱 I’m currently learning Java
