@@ -5,8 +5,9 @@
 - Java 17
 - Spring
 - Postgresql
+- MongoDB
 - Docker
 ###
-🔭 I’m currently working on Blogchain, Gopher-storage
+🔭 I’m currently working on Blogchain
 
 🌱 I’m currently learning Go
