@@ -8,6 +8,3 @@
 - MongoDB
 - Docker
 ###
-🔭 I’m currently working on Jcode
-
-🌱 I’m currently learning Go
